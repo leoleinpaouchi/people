@@ -1,2 +1,2 @@
 # people
-people repo
+people repo  for git  commande demonstratio
